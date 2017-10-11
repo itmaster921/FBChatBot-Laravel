@@ -1,0 +1,11 @@
+/node_modules
+/vendor
+/.idea
+.env
+_ide_helper.php
+/public/img/uploads/*
+!/public/img/uploads/.gitkeep
+/.phpstorm.meta.php
+/database/database.sqlite
+/local/
+npm-debug.log
